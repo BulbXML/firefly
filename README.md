@@ -1,1 +1,1 @@
-# firefly
+Copy the folder into your resourcepacks folder, if any issues arise DM me on Discord (bulbxml)
